@@ -1,6 +1,6 @@
 <h1 align="center">Kreative Spooferr</h1>
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/991323451904249977/1001871497851306065/240_F_95606161_tZQbi5y8dWNxxJz7bLA3eifc9qzIgB4P.jpg" alt="Logo"><br> 
+    <img src="https://cdn.discordapp.com/attachments/961360604524847113/1001995431678586940/unknown.png" alt="Logo"><br> 
 </p><hr>
 
 Kreative Spoofer is my newest project. I've working on it since a while for now. Im realing you version v1.1. 
